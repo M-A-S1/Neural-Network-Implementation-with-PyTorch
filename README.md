@@ -69,8 +69,8 @@ Predicted Output: [[0.01000054, 0.9899996]]
 
 For any queries or clarifications, feel free to contact:
 
-📧 [muhammad.ali@example.com](mailto:muhammad.ali@example.com)
-📘 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+📧 [muhammad.ali@example.com](mailto:muhammad.ali.sid25@gmail.com)
+📘 [LinkedIn](https://www.linkedin.com/in/muhammad-ali-sid/)
 
 ---
 
