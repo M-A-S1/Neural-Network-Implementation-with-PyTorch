@@ -1,2 +1,16 @@
-# Neural-Network-Implementation-with-PyTorch
-This project demonstrates the implementation of a simple feedforward neural network using basic tensor operations and PyTorch's built-in functions. The goal is to showcase the forward and backward propagation processes, including weight and bias updates, to minimize the mean squared error (MSE) for a given input-output pair.
+% Neural Network Implementation with PyTorch
+% Welcome to the repository for ANN Assignment 1 by Muhammad Ali (498148).% This project demonstrates the implementation of a simple feedforward neural% network using basic tensor operations and PyTorch's built-in functions. The% goal is to showcase the forward and backward propagation processes, including% weight and bias updates, to minimize the mean squared error (MSE) for a given% input-output pair.
+%% Project Overview
+% The project consists of two main implementations:% 1. Basic Tensor Operations: A custom neural network built from scratch%    using PyTorch tensors, performing a single forward pass, calculating the%    MSE loss, and training the network over multiple iterations with gradient%    descent.% 2. PyTorch Built-in Functions: The same neural network implemented using%    PyTorch's nn.Module, leveraging high-level APIs for layers, loss%    functions, and optimizers.
+% Both implementations achieve near-zero error and accurately predict the target% outputs after 10,000 iterations, demonstrating the equivalence of manual and% automated approaches.
+%% Features% - Custom NN Implementation: Manual computation of forward pass, sigmoid%   activation, MSE loss, and gradient descent.% - PyTorch NN Module: Utilization of nn.Linear, nn.MSELoss, and%   optim.SGD for a streamlined implementation.% - Gradient Computation: Verification of gradients against hand-calculated%   values.% - Training Loop: Efficient training with a learning rate of 10 and 10,000%   iterations.% - Jupyter Notebook: Includes detailed code, explanations, and outputs in%   Muhammad_Ali_Assignment1.ipynb.
+%% Getting Started
+%%% Prerequisites% - Python 3.x% - PyTorch% - Jupyter Notebook (optional, for running the notebook)
+%%% Installation% 1. Clone the repository:%    bash %    git clone https://github.com/yourusername/ann-assignment1.git %    % 2. Install the required dependencies:%    bash %    pip install torch %    % 3. Open the Jupyter Notebook:%    bash %    jupyter notebook Muhammad_Ali_Assignment1.ipynb %    
+%% Usage% - Run the notebook cells sequentially to see the step-by-step execution of%   both implementations.% - The notebook includes comments and outputs for clarity, showing the initial%   setup, forward pass, gradient computation, and final results.% - Modify the learning rate, iterations, or network architecture in the code to%   experiment with different configurations.
+%% Results% - Custom Implementation:%   - Final Error: 1.6677285e-12%   - Predicted Output: [[0.01000133, 0.98999876]]% - PyTorch Implementation:%   - Final Error: 2.3393960379980427e-13%   - Predicted Output: [[0.01000054, 0.9899996]]
+% Both approaches yield predictions very close to the target output% [0.01, 0.99], with negligible errors.
+%% Contributing% Contributions are welcome! Please fork the repository, create a new branch,% and submit a pull request with your improvements or bug fixes.
+%% License% This project is licensed under the MIT License. See the LICENSE% file for details.
+%% Acknowledgments% - Built as part of an Artificial Neural Networks (ANN) course assignment.% - Special thanks to the PyTorch community for excellent documentation and%   resources.
+% ---% Feel free to explore the code and experiment with the neural network% implementations!
