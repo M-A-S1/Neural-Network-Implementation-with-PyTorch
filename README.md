@@ -1,4 +1,4 @@
-# ANN Assignment 1
+# Neural-Network-Implementation-with-PyTorch
 
 This repository contains the implementation of a basic Artificial Neural Network (ANN) using both manual tensor operations and PyTorch’s built-in functions.
 
