@@ -42,8 +42,8 @@ Predicted Output: [[0.01000054, 0.9899996]]
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/ann-assignment1.git
-   cd ann-assignment1
+   git clone https://github.com/M-A-S1/Neural-Network-Implementation-with-PyTorch
+   cd Neural-Network-Implementation-with-PyTorch
    ```
 
 2. (Optional) Create and activate a virtual environment:
@@ -62,7 +62,7 @@ Predicted Output: [[0.01000054, 0.9899996]]
 4. Launch the notebook:
 
    ```bash
-   jupyter notebook Muhammad_Ali_Assignment1.ipynb
+   jupyter notebook nn.ipynb
    ```
 
 ## 📬 Contact
