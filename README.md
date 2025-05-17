@@ -14,11 +14,6 @@ The goal of this assignment is to manually implement a single hidden layer neura
 * Update weights using gradient descent
 * Re-implement the same architecture using `torch.nn` and `torch.optim`
 
-## 📂 Files
-
-* `Muhammad_Ali_Assignment1.ipynb` - Jupyter notebook containing full code and explanations
-* `Muhammad_Ali_Assignment1.pdf` - PDF version of the notebook (for submission or viewing)
-
 ## 🛠️ Technologies Used
 
 * Python
