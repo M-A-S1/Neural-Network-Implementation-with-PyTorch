@@ -4,7 +4,9 @@ This repository contains the implementation of a basic Artificial Neural Network
 
 ## 🧐 Project Overview
 
-The goal of this projecy is to manually implement a single hidden layer neural network and then replicate the same using PyTorch's built-in neural network functionalities.
+The goal of this projecy is to manually implement a single hidden layer neural network and then replicate the same using PyTorch's built-in neural network functionalities. Below is a visual representation of the neural network used in this project:
+
+![Neural Network Architecture](NN.png)
 
 ### ✔️ Objectives:
 
